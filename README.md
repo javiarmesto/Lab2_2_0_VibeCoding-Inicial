@@ -1,5 +1,14 @@
 # Ejercicio de Extensión Customer con Validación de Email
 
+## Cómo empezar
+
+Este repositorio contiene **el enunciado y una guía de estilo**, no una extensión instalable: no hay `app.json` ni objetos AL. El resultado del ejercicio es tu propia extensión Customer con validación de email, comparada antes y después de aplicar instrucciones.
+
+Clona el repo y lee esta guía y [VibeCoding_AL_StyleGuide.md](VibeCoding_AL_StyleGuide.md). En otra carpeta, usa **AL: Go!** en VS Code con AL Language; configura tu sandbox en `launch.json`, descarga símbolos y elige versiones e IDs adecuados para ese entorno. GitHub Copilot se utiliza para la generación y comparación; conserva ambos resultados.
+
+Compila y publica **el proyecto que crees**, no esta carpeta. Comprueba email válido/inválido y la acción de detección con clientes de prueba; entrega código y comparación. No hay una versión BC validada por este repositorio. Material histórico de aula, revisado estáticamente el 6 de octubre de 2026; no se ha ejecutado el ejercicio.
+
+
 ## 0. Dinámica del Ejercicio
 
 1. **Primera parte:** Realiza todo el ejercicio sin instrucciones personalizadas, aplicando tus conocimientos y criterios propios.
